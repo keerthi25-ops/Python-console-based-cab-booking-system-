@@ -1,4 +1,4 @@
-ḍfrom pymysql import*
+from pymysql import*
 import pwinput as pw
 import threading
 import time
@@ -287,3 +287,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
