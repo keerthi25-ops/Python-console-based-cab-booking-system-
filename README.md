@@ -49,7 +49,7 @@ It manages the complete lifecycle of cab bookings — from user and driver regis
 
 ## 🛠 Tech Stack
 - **Database**: MySQL  
-- **Language**: SQL  
+- **Language**: Python,SQL  
 - **Tools**: MySQL Workbench,NOTEPAD++
 
 ---
